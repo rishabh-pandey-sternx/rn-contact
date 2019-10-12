@@ -20,6 +20,9 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+ios/Pods
+ios/Pods/
+
 project.xcworkspace
 
 # Android/IntelliJ
